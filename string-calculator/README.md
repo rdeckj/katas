@@ -1,10 +1,10 @@
 # String Calculator
 Inspired by [Roy Osherove](https://osherove.com/tdd-kata-1/)
 
-##Summary
+## Summary
 Create a calculator that will take input as a string and return the sum.
 
-##Before you begin
+## Before you begin
 * Try not to read ahead
 * Complete one step at a time
 * Test only valid input
